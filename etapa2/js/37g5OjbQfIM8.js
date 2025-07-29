@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_SMTP_FROM":"'Typebot' <smtp@smtptypebot.online>","NEXT_PUBLIC_VIEWER_URL":"https://app.acessoap.tech"};
